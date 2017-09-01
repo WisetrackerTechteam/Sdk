@@ -2,6 +2,12 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* IOS에서 보고된 Crash 현상과 관련하여 BAD_ACCESS 현상 개선. 
+> 1. 업데이트 내용 : 단말기의 리소트가 부족한 경우, BAD_ACCESS 예외가 보고되어, 이 부분을 pointer를 사용하여 보완조치함. 
+> 1. 이 버전의 sdk사용시 TinyDB, QueueFile과 관련된 참조오류 현상이 개선됩니다. 
+> 1. IOS SDK 21.2.39
+> 1. 배포 일자 : 2017.09.01
+
 * Android에서 보고된 ANR현상과 관련하여 SharedPreferences 관련 로직 개선.
 > 1. 업데이트 내용 : Android os가 제공하는 SharedPreferences를 사용함에 있어서, editor.commit() 함수 사용하는 경우에는,
                   ANR이 발생할 수 있는 기술적 내용이 리퍼런스를 통해서 확인되어, 
