@@ -2,6 +2,11 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* IOS에서 country code 추출시 발생하는 Crash 현상 개선. 
+> 1. 업데이트 내용 : IOS에서 country code 추출시 발생하는 Crash 발생 가능성에 대한 예외 처리 추가. 
+> 1. IOS SDK 21.2.43
+> 1. 배포 일자 : 2017.12.20
+
 * Android 앱설치시 Desktop 환경에서의 설치에 따른 광고분석 보완조치 적용. 
 > 1. 업데이트 내용 : Android의 경우에 Desktop 에서 Google Account를 통해서 앱을 설치하고 광고를 통해 유입되는 케이스에 대한 보완조치 적용. 
 > 1. Android SDK 21.2.43
