@@ -4,7 +4,7 @@
 
 * Android에서 InstallReferrerClient Library 적용.  
 > 1. 업데이트 내용 : Android 에서 보다 정확한 CTIT 계산을 위해서 업데이트된 Library가 추가 되었습니다. 이 버젼을 사용할 경우 build.gradle 파일에 installreferrer를 설정해줘야 합니다.  
-> 1. Android SDK 21.2.45
+> 1. Android SDK 21.2.44
 > 1. 배포 일자 : 2018.01.08
 
 * IOS에서 country code 추출시 발생하는 Crash 현상 개선. 
