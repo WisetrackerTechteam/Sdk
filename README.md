@@ -2,6 +2,11 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* Android에서 InstallReferrerClient Library 적용.  
+> 1. 업데이트 내용 : Android 에서 보다 정확한 CTIT 계산을 위해서 업데이트된 Library가 추가 되었습니다. 이 버젼을 사용할 경우 build.gradle 파일에 installreferrer를 설정해줘야 합니다.  
+> 1. Android SDK 21.2.45
+> 1. 배포 일자 : 2018.01.08
+
 * IOS에서 country code 추출시 발생하는 Crash 현상 개선. 
 > 1. 업데이트 내용 : IOS에서 country code 추출시 발생하는 Crash 발생 가능성에 대한 예외 처리 추가. 
 > 1. IOS SDK 21.2.43
