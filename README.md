@@ -2,6 +2,11 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* iOS에서 installTime 관련 crash 보고 현상에 대한 패치.
+> 1. 업데이트 내용 : 기존 앱 설치자의 앱 업데이트시 신규 sdk적용에 의한 installTime Crash 현상에 대한 조치. 
+> 1. iOS SDK 21.2.44
+> 1. 배포 일자 : 2018.02.07
+
 * Android에서 InstallReferrerClient Library 적용.  
 > 1. 업데이트 내용 : Android 에서 보다 정확한 CTIT 계산을 위해서 업데이트된 Library가 추가 되었습니다. 이 버젼을 사용할 경우 build.gradle 파일에 installreferrer를 설정해줘야 합니다.  
 > 1. Android SDK 21.2.44
