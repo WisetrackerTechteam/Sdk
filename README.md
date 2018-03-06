@@ -2,6 +2,12 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* 화면 분석 API 추가 및 클릭 이벤트 분석 전용 API 추가.
+> 1. 업데이트 내용 : 화면 분석을 위한 API 추가 ( injectFinishedWithOutStartEndPage, endStartPage )
+                 클릭이벤트 분석 전용 API 추가 ( sendClickData )
+> 1. iOS SDK 21.2.45
+> 1. 배포 일자 : 2018.03.06
+
 * iOS에서 installTime 관련 crash 보고 현상에 대한 패치.
 > 1. 업데이트 내용 : 기존 앱 설치자의 앱 업데이트시 신규 sdk적용에 의한 installTime Crash 현상에 대한 조치. 
 > 1. iOS SDK 21.2.44
