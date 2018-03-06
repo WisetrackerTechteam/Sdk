@@ -5,7 +5,7 @@
 * 화면 분석 API 추가 및 클릭 이벤트 분석 전용 API 추가.
 > 1. 업데이트 내용 : 화면 분석을 위한 API 추가 ( injectFinishedWithOutStartEndPage, endStartPage )
                  클릭이벤트 분석 전용 API 추가 ( sendClickData )
-> 1. iOS SDK 21.2.45
+> 1. Android SDK 21.2.45, iOS SDK 21.2.45
 > 1. 배포 일자 : 2018.03.06
 
 * iOS에서 installTime 관련 crash 보고 현상에 대한 패치.
