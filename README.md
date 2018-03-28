@@ -2,7 +2,7 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
-* WebView로 로딩된 웹 페이지에 재진입 하는 경우에 대한 injectXXXX 함수 추가. 
+* WebView로 로딩된 웹 페이지에 재진입 하는 경우에 대한 reInjectXXXX 함수 추가. 
 > 1. 업데이트 내용 : 웹뷰에 최초 로딩된 페이지에 다시 진입하는 경우 웹 페이지를 리로딩 하지 않고, id를 지정하여 inject할수 있는 함수 추가. ( reInjectXXXX 함수 )
 > 1. Android SDK 21.2.46, iOS SDK 21.2.46
 > 1. 배포 일자 : 2018.03.28
