@@ -2,6 +2,11 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* Android Oreo ( API 26 ) 환경에서 Background Service 제한에 따른 보완 조치 사항 적용. 
+> 1. 업데이트 내용 : Android Oreo ( API 26 ) 이상에서 Background 에서의 service 생성 제한에 대응하는 패치사항 적용. 
+> 1. Android SDK 21.2.47
+> 1. 배포 일자 : 2018.05.03
+
 * WebView로 로딩된 웹 페이지에 재진입 하는 경우에 대한 reInjectXXXX Crash 수정 
 > 1. 업데이트 내용 : reInjectWKTracker 함수에서 NSInvalidArgumentException 오류 현상 예외 처리. 
 > 1. iOS SDK 21.2.47
