@@ -2,6 +2,11 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* 단말기에서 추출한 시간정보값이 다른 경우를 대비하기 위해서 NTPServerTime을 사용하도록 관련 라이브러리 추가 사용. 
+> 1. 업데이트 내용 : 단말기의 System.currentTimeMillis()추출값이 현재 네트워크에서 사용하는 시간값과 다른 부분을 대응하기 위한 패치. 
+> 1. Android SDK 21.2.48
+> 1. 배포 일자 : 2018.05.18
+
 * Android Oreo ( API 26 ) 환경에서 Background Service 제한에 따른 보완 조치 사항 적용. 
 > 1. 업데이트 내용 : Android Oreo ( API 26 ) 이상에서 Background 에서의 service 생성 제한에 대응하는 패치사항 적용. 
 > 1. Android SDK 21.2.47
