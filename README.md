@@ -2,6 +2,11 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* 회원 ID 수집 항목 추가.
+> 1. 업데이트 내용 : SDK에서 회원 ID항목을 수집할수 있도록 함수 추가.
+> 1. iOS & Android SDK 21.2.50
+> 1. 배포 일자 : 2018.11.08
+
 * Apple SearchAd 광고 분석 지원 
 > 1. 업데이트 내용 : Apple SearchAd 광고 분석이 가능하도록 iOS SDK 업데이트 반영. 
 > 1. iOS SDK 21.2.48
