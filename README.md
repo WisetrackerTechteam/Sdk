@@ -2,6 +2,10 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* 21.2.53
+> 1. PageIdentity 항목 Goal 데이터와 연동.(sendGoalPageIdentity)
+> 2. Goal Data 즉시 전송 함수 생성(sendGoalData)
+
 * 21.2.52
 > 1. Goal Value Double로 타입 변경.
 > 2. CP 데이터 전환데이터에 사용가능하도록 변경.
