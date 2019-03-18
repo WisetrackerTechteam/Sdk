@@ -2,6 +2,10 @@
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
+* 21.2.55
+> 1. NPay 분석을 위한 SDK 수정.
+> 2. WiseTracker.executeCallbackWithNPayKey(callback); 함수 사용.(별도 가이드 참조)
+
 * 21.2.54
 > 1. PAGES그룹에 웹뷰 URL 정보 추가.(분석에 사용되진 않는다.)
 > 2. WebView에 대해 페이지 로딩 시간 측정 추가.
