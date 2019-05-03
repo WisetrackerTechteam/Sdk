@@ -1,3 +1,8 @@
+## WiseTracker SDK제공 방식이 기존 jar형태의 제공 방식에서 
+## 21.3.1 버전부터 bintray를 통한 gradle로 제공 됩니다. 
+## 기존 사용자중 SDK업데이트가 필요하신 분은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
+
+
 ### WiseTracker SDK 의 업데이트 정보. 
 ###### WiseTracker에서 제공하는 SDK와 관련된 업데이트 내역은 아래에서 제공합니다. 
 ###### 업데이트 내용에 대해서 기술적 질문 사항은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
