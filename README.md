@@ -1,5 +1,5 @@
 ## WiseTracker SDK제공 방식이 기존 jar형태의 제공 방식에서 
-## 21.3.1 버전부터 bintray를 통한 gradle로 제공 됩니다. 
+## 21.3.1 버전부터 bintray를 통해 제공 됩니다. (https://bintray.com/tracker/maven/SDK_V1)
 ## 기존 사용자중 SDK업데이트가 필요하신 분은 tech@wisetracker.co.kr로 문의해주시기 바랍니다. 
 
 
