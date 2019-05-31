@@ -10,8 +10,8 @@
 <br>
 
 ## SDK RELEASE NOTE
-### WiseTracker SDK 의 업데이트 정보는 [RELEASE_NOTE.md](./RELEASE_NOTE.md) 파일에서 확인이 가능하니다.  
+### WiseTracker SDK 의 업데이트 정보는 [RELEASE_NOTE.md](./RELEASE_NOTE.md) 파일에서 확인이 가능합니다.  
 
 <br>
 
-## 기존 사용자중 SDK업데이트가 필요하신 분은 tech@wisetracker.co.kr로 문의해주시기 바랍니다.  
+### 기존 사용자중 SDK업데이트가 필요하신 분은 tech@wisetracker.co.kr로 문의해주시기 바랍니다.  
