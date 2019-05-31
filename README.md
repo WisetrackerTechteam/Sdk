@@ -14,4 +14,4 @@
 
 <br>
 
-### 기존 사용자중 SDK업데이트가 필요하신 분은 tech@wisetracker.co.kr로 문의해주시기 바랍니다.  
+### * 기존 사용자중 SDK업데이트가 필요하신 분은 tech@wisetracker.co.kr로 문의해주시기 바랍니다.  
