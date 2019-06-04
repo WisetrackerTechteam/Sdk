@@ -1,7 +1,7 @@
 
 ## Android
 ### Android WiseTracker SDK제공 방식이 기존 jar형태의 제공 방식에서 
-### 21.3.1 버전부터 bintray(https://bintray.com/tracker/maven/SDK_V1) 제공 방식으로 변경되었습니다.  
+### 21.3.1 버전부터 bintray(https://bintray.com/beta/#/tracker/maven/SDK_V1?tab=readme) 제공 방식으로 변경되었습니다.  
 <br>  
 
 ## iOS
